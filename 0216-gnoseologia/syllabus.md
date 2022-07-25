@@ -1,32 +1,33 @@
 # Gnoseología [0216]
-UNIVERSIDAD DE BUENOS AIRES FACULTAD DE FILOSOFIA Y LETRAS 
-DEPARTAMENTO: FILOSOFIA 
-MATERIA: Gnoseología 
-PROFESOR: García, Esteban Andrés 
-CUATRIMESTRE: 1° 
-AÑO: 2018 
-PROGRAMA Nº: 0216
 
 UNIVERSIDAD DE BUENOS AIRES 
+
 FACULTAD DE FILOSOFÍA Y LETRAS 
+
 DEPARTAMENTO DE FILOSOFÍA 
+
 MATERIA: Gnoseología 
+
 PROFESOR: Esteban A. García 
+
 Primer Cuatrimestre de 2018 
+
 PROGRAMA N° 0216 
 
 # 1. Fundamentación y descripción 
 
 La organización del curso se basa en la lectura reflexiva de algunos textos fundamentales de la historia de las teorías del conocimiento, acompañada de una metodología de análisis y discusión que relaciona estos contenidos históricos entre sí e identifica problemas comunes a los diversos desarrollos, sin obviar sus diferentes contextos epocales y sus rasgos teóricos propios. La selección de textos de esta cursada pretende integrar corrientes filosóficas diversas, pertenecientes tanto a las tradiciones filosóficas antigua y moderna, incluyendo una última unidad en que se abordan desarrollos fenomenológicos y hermenéuticos contemporáneos. Si bien se adopta una organización histórica, se pretende fomentar y enfatizar el análisis de los problemas de la teoría del conocimiento integrando el enfoque diacrónico mediante una serie de ejes temáticos. Se procura que lxs alumnxs puedan abordar, en el interior del pensamiento de un autor como así también de modo comparativo y confrontativo (relacionando diversos desarrollos) el estudio de los siguientes temas generales: a) distinciones entre diversas modalidades del conocimiento y sus relaciones recíprocas (por ejemplo, los variados modos en que son consideradas las relaciones entre el conocimiento perceptivo y el conocimiento científico); b) diferentes fuentes del conocimiento (tales como la sensibilidad y el intelecto) y su validez relativa; c) posibilidades y límites del conocimiento en lo que respecta a diversos objetos –sí mismo, los otros, la naturaleza-; d) diversos métodos propuestos para adquirir conocimiento legítimo; e) diferentes maneras de justificar la validez del conocimiento; f) diversas concepciones de la verdad.  
+
 El curso procura que lxs alumnxs lean prioritaria y directamente los textos de los autores clásicos, modernos o contemporáneos en cuestión antes que obras generales, introductorias o exegéticas. La amplia gama de autores y problemas a considerar obliga a realizar en muchos casos una selección de capítulos de algunas obras, selección que se indica en la bibliografía específica consignada para cada unidad, pero será siempre precisada durante el desarrollo del curso. La bibliografía complementaria y general es sugerida a lxs alumnxs para ampliar su conocimiento de los temas y/o preparar su parcial domiciliario o monográfico, en el caso de que fuera indicado. 
-En cada una de las comisiones de trabajos prácticos se leerá y discutirá una selección distinta de textos relacionados con alguna de las cuatro unidades del programa, de modo de ofrecer diversas posibilidades a lxs alumnxs. Durante el curso se tomarán dos  exámenes parciales: el primero acerca de contenidos de las clases teóricas y un segundo  parcial domiciliario o monográfico sobre textos analizados en prácticos. En ambos casos se  evaluará el conocimiento de los temas desarrollados, la pertinencia de las respuestas 
-respecto de las preguntas o problemas planteados, y la claridad en la expresión y desarrollo  de los argumentos. 
+
+En cada una de las comisiones de trabajos prácticos se leerá y discutirá una selección distinta de textos relacionados con alguna de las cuatro unidades del programa, de modo de ofrecer diversas posibilidades a lxs alumnxs. Durante el curso se tomarán dos  exámenes parciales: el primero acerca de contenidos de las clases teóricas y un segundo  parcial domiciliario o monográfico sobre textos analizados en prácticos. En ambos casos se  evaluará el conocimiento de los temas desarrollados, la pertinencia de las respuestas respecto de las preguntas o problemas planteados, y la claridad en la expresión y desarrollo  de los argumentos. 
 
 # 2. Objetivos 
 
 Son objetivos generales del curso que el alumno: a) conozca los problemas gnoseológicos que atraviesan la historia de la filosofía en sus contextos epocales específicos y pueda identificar múltiples tipos de relaciones entre los abordajes propios de diversos autores y escuelas; b) se familiarice con el vocabulario técnico y el aparato conceptual propio del campo de la asignatura y con las propuestas teóricas de los filósofos estudiados; c) adquiera técnicas de estudio y trabajo intelectual apropiadas utilizando los materiales bibliográficos indicados; d) pueda desarrollar reflexiones críticas y justificadas respecto de las diversas perspectivas gnoseológicas estudiadas. 
 
 # 3. Contenidos 
+
 ## Unidad I. La percepción sensible y el conocimiento intelectual en Aristóteles. 
 
 La naturaleza como escala de formas. Definiciones aristotélicas del alma y encuadre  científico de su estudio: críticas a concepciones presocráticas y platónicas. Especies y  facultades del alma. Caracterización de la *aísthesis* y clasificación general de los  “sensibles”. Los sentidos especiales y el sentido común. La imaginación: diferencias con la  sensación y la intelección. La intelección y el pensamiento discursivo. Intelecto activo y  pasivo. 
@@ -34,29 +35,36 @@ La naturaleza como escala de formas. Definiciones aristotélicas del alma y encu
 ## Unidad II. Racionalismo y empirismo en la gnoseología moderna. 
 
 **II.1. La teoría de las ideas de R. Descartes.** 
+
 La unidad de la ciencia. Las reglas del método. Las facultades de conocimiento en las *Regulae*. Matematización de la naturaleza y fisiología mecanicista. La duda metódica: argumentos y grados de alcance. El *cogito* y la primera certeza. Las verdades innatas. Realidad formal y objetiva. Conocimiento de la existencia de Dios y de la *res extensa*. El problema del compuesto y la interacción causal alma-cuerpo tras las *Meditaciones Metafísicas*. El mundo sensible y la existencia de otras conciencias. Racionalismo y experiencia en Descartes. 
 
 **II.2. El empirismo naturalista de D. Hume** 
+
 Relaciones entre empirismo, naturalismo y escepticismo en Hume. El método “experimental” en filosofía. Percepciones simples y complejas. Impresiones e ideas. Impresiones de sensación y de reflexión. Ideas de memoria y de imaginación. Principios de asociación entre ideas. Ideas de relaciones, modos, sustancia e ideas abstractas. Génesis de la idea de causalidad. El instinto, el hábito y la razón en los animales.
 
 ## Unidad III. La conciencia trascendental en las filosofías crítica y fenomenológica.  
 
 **III.1. El idealismo trascendental de I. Kant.** 
+
 Significado de la “revolución copernicana” del modo de pensar. Posibilidad de los juicios sintéticos a priori. La Estética Trascendental: Exposición metafísica y trascendental del espacio. Fenómeno y noúmeno. La Analítica Trascendental: Deducción Trascendental de las categorías (A). 
 
 **III.2. La fenomenología de E. Husserl.** 
+
 Fenomenología estática, genética y generativa. La reflexión, el método de la *epoché* y la reducción. La intencionalidad, la interpretación del dato sensible y la correlación noético noemática. Tipos de vivencias. Las nociones de verdad. Horizonticidad y perspectivismo. Presentaciones, presentificaciones y despresentaciones. Los estratos del nóema. La temporalidad. Habitualidades y tipos empíricos. Las síntesis pasivas. El rol del *Leib* en la percepción y la empatía. 
 
 ## Unidad IV. Perspectivas fenomenológicas y hermenéuticas contemporáneas. 
 
 **IV.1. Ser, mundo y espacialidad en la filosofía de M. Heidegger.** 
+
 La noción de ser y la pregunta fundamental por el sentido del ser. El sentido del ser del *Dasein*. Concepto de mundo y de útil. La noción de remisión y de cadena remisional. Las críticas al espacio en la filosofía cartesiana. La espacialidad del ente a la mano. Los temples anímicos. El habla. 
 
 **IV.2. Hermenéutica: una aproximación histórica. La hermenéutica textual de Paul  Ricoeur.** 
+
 1) Introducción a la hermenéutica: una visión panorámica desde las hermenéuticas  epistemológicas (Schleiermacher y Dilthey) hasta las ontológicas (Heidegger y Gadamer). 
 2) El programa hermenéutico de Paul Ricoeur: un intento de reconciliación de la  hermenéutica ontológica o de la filosofía hermenéutica del siglo XX y la función  epistemológica de las hermenéuticas decimonónicas. 
 
 **IV. 3. Corporalidad y percepción en la filosofía de M. Merleau-Ponty.** 
+
 a. La crítica a la fisiología mecanicista. El cuerpo vivido como distinto del cuerpo anátomo fisiológico y de la imagen psíquica del cuerpo. Cuerpo actual, habitual y orgánico.  Caracteres privativos del cuerpo como objeto-sujeto de la percepción. El esquema motriz y  el objeto percibido como fórmula motriz. La adquisición de hábitos comportamentales. La  noción de “intercorporalidad” frente a la teoría husserliana de la empatía.
 b. Merleau-Ponty y la noción de "intencionalidad motriz": la corporalización de la intencionalidad a partir de una fenomenología del cuerpo, con y más allá de Husserl. 
 
@@ -80,10 +88,12 @@ b. Merleau-Ponty y la noción de "intencionalidad motriz": la corporalización d
 - Platón, *La República*, trad. J. Pabón-M. Fernández Galiano, Madrid, Alianza, 1991; 
 - Platón, *Teeteto*, trad. M. Boeri, Buenos Aires, Losada, 2006; 
 - W. D.  Ross, *Aristóteles*, Buenos Aires, Editorial Charcas, 1981; 
-- C. Viano-G. Romeyer Dherbey (eds.),  *Aristote. Corps et âme. Études sur le De Anima*, Paris, Vrin, 1996.. 
+- C. Viano-G. Romeyer Dherbey (eds.),  *Aristote. Corps et âme. Études sur le De Anima*, Paris, Vrin, 1996.
+
 ## Unidad II 
 
 **Bibliografía obligatoria** 
+
 II.1. R. Descartes
 
 - *Reglas para la dirección del espíritu*, trad. de J. M. Navarro Cordón, Madrid, Alianza Editorial, 1989, Regla XII; 
@@ -114,9 +124,11 @@ II.2. D. Hume
 - B. Stroud, *Hume*, London, Routledge & Kegan Paul, 1977; 
 - *El escepticismo filosófico y su significación*, México, FCE, 1990; 
 - M. D. Wilson, *Descartes*, trad. José Antonio Robles, México, UNAM, 1990. 
+
 ## Unidad III 
 
 **Bibliografía obligatoria** 
+
 III.1. I. Kant
 
 - *Crítica de la Razón Pura* (trad. M. Caimi), Buenos Aires, Colihue, 2007, pp. 15-41 (B VI-XLIV); 59-83 (B1-30); 87-98 (B33-45); 147-148 (A79/B104-105); 157-198 (A84-130) 
@@ -128,6 +140,7 @@ III.2. E. Husserl
 - *Investigaciones Lógicas*, trad. M. G. Morente-J. Gaos, Madrid, Revista de Occidente, 1967 (selección de textos de Inv. V y VI incluida en los resúmenes de teóricos provistos durante la cursada). 
 
 **Bibliografía complementaria** 
+
 III.1. Kant
 
 - H. Allison, *El idealismo trascendental de Kant. Una interpretación y defensa*,  Barcelona/México, Anthropos, 1992; 
@@ -153,9 +166,11 @@ III.2 Husserl
 - W. Szilasi, *Introducción a la fenomenología de Husserl*, Buenos  Aires, Amorrortu, 2003; 
 - R. Walton, *Husserl. Mundo, Conciencia y Temporalidad*, Buenos Aires,  Almagesto, 1993; 
 - D. Zahavi, *Husserl’s Phenomenology*, Stanford, Stanford Un. Press, 2017. 
+
 ## Unidad IV 
 
 **Bibliografía obligatoria** 
+
 IV.1. Heidegger
 
 - *El Ser y el Tiempo* (trad. de José Gaos), México, Fondo de Cultura Económica, 1997, Parágrafos 1-7; 14-24; 28-38. 
@@ -180,6 +195,7 @@ IV.b. Husserl
 
  
 **Bibliografía complementaria** 
+
 IV. 1. 
 
 - Kissiel, Theodor, *The Genesis of Heidegger´s Being and Time,* Berkeley/Los Ángeles,  1993; 
@@ -207,7 +223,9 @@ IV.b.
 - M. Larison, “Subjetividad e intencionalidad: génesis de un problema”, en *Escritos de  Filosofía*, 2014, pp. 177 - 196; 
 - *L'être en forme. Dialectique et phénoménologie dans la  dernière philosophie de Merleau-Ponty*, Milano, 2016, pp. 204-213; 
 - “Renaud Barbaras e a  vitalidade da fenomenologia”, en *Cadernos Espinosanos*, 2012, pp. 179-200. 
+
 # 5. Bibliografía general 
+
 - O. F. Bollnow, *Introducción a la filosofía del conocimiento. La comprensión previa y la experiencia de lo nuevo*, Buenos Aires, Amorrortu, 2001; 
 - F. Brentano, *Breve esbozo de una teoría general del conocimiento*, trad. M. García-Baró, Madrid, Ed. Encuentro, 2001; 
 - F. Broncano (ed.), *La mente humana*, Madrid, Trotta, 1995; 
@@ -240,6 +258,7 @@ IV.b.
 - R. Walton, *El fenómeno y sus configuraciones*, Buenos Aires, Almagesto, 1993; 
 - R. Walton, *Intencionalidad y horizonticidad*, Bogotá, Ed. Aula de Humanidades Universidad San Buenaventura Cali, 2015; 
 - J. Zalabardo, *Conocimiento y escepticismo. Ensayos sobre epistemología*, México, UNAM, 2016.
+
 # 6. Carga horaria 
 
 El cursado de la materia comprende 4 horas semanales de clases teóricas y 2 horas semanales de asistencia a clases de Trabajos Prácticos. 
@@ -255,6 +274,7 @@ La materia se ajusta a las normas que rigen para las materias con examen final o
 Si bien no es obligatorio, se recomienda a lxs estudiantes haber cursado previamente Historia de la Filosofía Moderna, ya que los temas abordados en Gnoseología suponen un conocimiento de algunas de las temáticas de dicha asignatura. Quien opte por rendir la materia en condición de alumnx libre deberá ponerse en contacto con la cátedra con suficiente antelación para recibir indicaciones acerca de la modalidad del examen. 
 
 Dr. Esteban Andrés García 
+
 Profesor Adjunto a Cargo
 
 
