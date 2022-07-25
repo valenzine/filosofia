@@ -1,2 +1,2 @@
 
-[Link](01-aristoteles.md)
+[Link](0216-gnoseologia/syllabus.md)
