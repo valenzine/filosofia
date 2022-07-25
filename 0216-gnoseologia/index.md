@@ -16,5 +16,5 @@ Además, incluyo enlaces de descarga para mis mazos de estudio de Anki.
 8. [Merleau-Ponty](07-merleau-ponty.md)
 
 ## Anki Collection
-* [Anki Collection](0216-gnoseologia/0216-gnoseologia.apkg)
-* [Anki Collection (2.1.50+)](0216-gnoseologia/0216-gnoseologia.apkg)
+* [Anki Collection](0216-gnoseologia.apkg)
+* [Anki Collection (2.1.50+)](0216-gnoseologia.colpkg)
